@@ -1,5 +1,5 @@
 
-<img src="Github/Web.png>
+<img src="Github/Web.png">
 
 
 <h1 align="center">Hi 👋, I'm Taj Nahar</h1>
