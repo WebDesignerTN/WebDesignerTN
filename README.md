@@ -1,7 +1,4 @@
 
-<img src="[Github/Web.png](https://media.licdn.com/dms/image/v2/D4E16AQG5RRwj1nKxpw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720803026448?e=1746057600&v=beta&t=-MP7QrKZItt5MYukg5sLZtxha0LGosNl3wFryT5Wlls)">
-
-
 <h1 align="center">Hi 👋, I'm Taj Nahar</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
