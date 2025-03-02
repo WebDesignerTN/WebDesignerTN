@@ -1,4 +1,4 @@
-<img src="web.png">
+<img src="[web.png](https://media.licdn.com/dms/image/v2/D5616AQHIupevfflKdg/profile-displaybackgroundimage-shrink_350_1400/B56ZVXGWpaHQAY-/0/1740923041137?e=1746662400&v=beta&t=3IFQTzzcx3h0oz94Fqrdd4Xor145IDPNMfnJ0vUviKI)">
 <h1 align="center">Hi 👋, I'm Taj Nahar</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
